@@ -1,17 +1,18 @@
-# Gaiaviz Squad - DAEN 690 Capstone
+# Capstone Project: UN Sustainable Development Goals (SDG) High-Dimensional Data Explorer
 
-## Topic
-**UN Sustainable Development Goals High-Dimensional Data Explorer**
+## Overview
+This capstone project, conducted as part of DAEN 690, focuses on enhancing the representation of the UN Sustainable Development Goals through innovative 3D visualizations. The project aims to facilitate deeper understanding and efficient decision-making regarding SDGs by transforming complex, multi-dimensional data into intuitive, interactive 3D graphics using GaiaViz software.
 
-## Description
-Since 2015, the United Nations has united governments, the private sector, and civil society around 17 Sustainable Development Goals (SDGs). These goals provide a roadmap to address health, social, political, and economic issues for a better future.
+## Features
+- **3D Visualization**: Utilize GaiaViz to create dynamic, interactive 3D representations of SDG data.
+- **Data Integration**: Implement Extract, Transform, Load (ETL) processes to prepare and integrate data for visualization.
+- **Interactive Exploration**: Users can explore SDG progress across different regions and time periods interactively.
 
-In particular, Goal 17, "Partnerships for The Goals," emphasizes the need to strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development. This involves increased inclusion of the least developed countries in the trade system, as well as sharing resources, expertise, and technology to enhance their self-sufficiency (Goal 17 | Department of Economic and Social Affairs, n.d.).
+## Technologies Used
+- Python for data preprocessing and analysis.
+- GaiaViz software for 3D visualization.
+- Pandas and NumPy for data manipulation.
 
-The progress of SDGs is monitored through a complex and multidimensional dataset, comprising 2.7 million records in 2023, available in CSV and/or JSON formats. To effectively visualize this data beyond traditional 2D graphs, there is a need for a more advanced approach. This approach should provide a holistic view, allowing project participants to comprehend the intricate relations surrounding the goals.
-
-## Goals
-The Gaiaviz Squad aims to enhance the presentation of SDGs to facilitate decision-making at higher levels and promote actionability at the grassroots level. The focus is on improving communication of key insights within these complex systems. The goal is to empower stakeholders to understand how their contributions fit into the larger picture. This understanding enables effective communication with other key players and sharing of actionable information.
 
 ## Team Members
 - **Sumanth Cholleti** – Scrum Master
