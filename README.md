@@ -1,7 +1,7 @@
 # Capstone Project: UN Sustainable Development Goals (SDG) High-Dimensional Data Explorer
 
 ## Overview
-This capstone project, conducted as part of DAEN 690, focuses on enhancing the representation of the UN Sustainable Development Goals through innovative 3D visualizations. The project aims to facilitate deeper understanding and efficient decision-making regarding SDGs by transforming complex, multi-dimensional data into intuitive, interactive 3D graphics using GaiaViz software.
+This capstone project, conducted as part of DAEN 690 course, focuses on enhancing the representation of the UN Sustainable Development Goals through innovative 3D visualizations. The project aims to facilitate deeper understanding and efficient decision-making regarding SDGs by transforming complex, multi-dimensional data into intuitive, interactive 3D graphics using GaiaViz software.
 
 ## Features
 - **3D Visualization**: Utilize GaiaViz to create dynamic, interactive 3D representations of SDG data.
