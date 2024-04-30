@@ -11,8 +11,9 @@ This capstone project, conducted as part of DAEN 690 course, focuses on enhancin
 ## Technologies Used
 - Python for data preprocessing and analysis.
 - GaiaViz software for 3D visualization.
-- Pandas and NumPy for data manipulation.
 
+## Reference Files
+- Our repository mainly consists of two sections. The first one is Data Cleaning where we worked on analyzing each goal individually and generated a cleaned copy. The second section is data visualization using the GaiaViz Tool for which we developed a generic script that mirrors the template of the tool. 
 
 ## Team Members
 - **Sumanth Cholleti** – Scrum Master
